@@ -1,6 +1,6 @@
 # LLM Internals
 
-Learn how large language models actually work — from tokenization to text generation — through practical experiments running on your local machine.
+Learn how large language models actually work from tokenization to text generation through practical experiments running on your local machine.
 
 No GPU required. No PyTorch. Just Python + Ollama.
 
