@@ -1,0 +1,9 @@
+[project]
+name = "llm-internals"
+version = "0.1.0"
+description = "Learn LLM internals through practical experiments with local Ollama — tokenization, embeddings, attention, sampling, and more"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.5",
+]
