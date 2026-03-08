@@ -70,4 +70,4 @@ uv run 01_tokenization.py
 
 ## Dependencies
 
-Just `requests`. No ML libraries needed — we use Ollama's API for everything.
+Just `requests`. No ML libraries needed, we use Ollama's API for everything.
